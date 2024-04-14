@@ -8,7 +8,7 @@ Welcome to my GitHub! Here's a quick glimpse into my professional life and some 
 
 💬 **Ask me about:** Anything related to **.NET, C#, APIs, software architectures, or design patterns**. I’m here to share what I know and learn from others!
 
-⚡ **Fun fact:** Years ago, I started a YouTube channel ([YouTube](https://www.youtube.com/darrenleecsharp)) which marked my journey into the .NET world. Check it out for a blast from the past!
+⚡ **Fun fact:** Years ago, I started a ([YouTube](https://www.youtube.com/darrenleecsharp)) channel which marked my journey into the .NET world. Check it out for a blast from the past!
 
 📫 **How to reach me:** Let’s connect! You can find me on [LinkedIn](https://www.linkedin.com/in/darrenleeyx).
 
