@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! Here's a quick glimpse into my professional life and some fun tidbits:
 
-🔭 **What I'm working on:** Currently, I'm developing a tool called **JsonEncryptor**, designed to enhance security by encrypting and decrypting `appsettings.json` files. Security in simplicity!
+🔭 **What I'm working on:** Currently, I'm developing a tool called **JsonEncryptor**, designed to enhance security by encrypting and decrypting `appsettings.json` files.
 
 🌱 **What I'm learning:** I’m diving deep into **.NET MAUI** as I expand my horizons into mobile app development. There’s always something new to learn!
 
