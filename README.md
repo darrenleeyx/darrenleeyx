@@ -4,7 +4,7 @@ Welcome to my GitHub! Here's a quick glimpse into my professional life and some 
 
 🔭 **What I'm working on:** Currently, I'm developing a tool called **JsonEncryptor**, designed to enhance security by encrypting and decrypting `appsettings.json` files.
 
-🌱 **What I'm learning:** I’m diving into Vue.js to expand my skills in web development. Starting to grasp the inner workings of frontend frameworks is both exciting and rewarding!
+🌱 **What I'm learning:** I’m diving into **Vue.js** to expand my skills in web development. Starting to grasp the inner workings of frontend frameworks is both exciting and rewarding!
 
 💬 **Ask me about:** Anything related to **.NET, C#, APIs, software architectures, or design patterns**. I’m here to share what I know and learn from others!
 
